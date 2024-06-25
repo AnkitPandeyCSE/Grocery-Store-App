@@ -1,3 +1,47 @@
-﻿# Grocery-Store-App
+﻿# Welcome to Grocery Shopping App Contributions 🍉
 
-             https://github.com/SkylineITC/Grocery-Store-App.git
+    https://github.com/SkylineITC/Grocery-Store-App.git
+
+# Rules
+
+<p> List of actively participating individulas in open souce contributions</p>
+
+- Add your own details to the contributor List
+- Make a Pull Request
+</br>
+</br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/akshay-mobile-application-developer/">
+        <img src="https://media.licdn.com/dms/image/D5603AQGpKQ0Ncl9bpA/profile-displayphoto-shrink_800_800/0/1719028809334?e=1724889600&v=beta&t=Egy70rUPiBuecjp1kM71YTWYx9jb0fbEyc9ICXUmAzE"
+        height="200" alt="akshay-mobile-application-developer">
+    </a>
+    <p align ="center">Akshay</p>
+    
+</p>
+
+
+
+# Contributor
+Thanks goes to these wonderful people (🤗):
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/akshay-mobile-application-developer/">
+        <img src="https://media.licdn.com/dms/image/D5603AQGpKQ0Ncl9bpA/profile-displayphoto-shrink_800_800/0/1719028809334?e=1724889600&v=beta&t=Egy70rUPiBuecjp1kM71YTWYx9jb0fbEyc9ICXUmAzE"
+        height="100" alt="akshay-mobile-application-developer">
+    </a>
+                <br>
+                <sub><b><a href="https://github.com/AkshayMobileApplicationDeveloper">Akshay Kumar Prajapati</a></b></sub>
+            </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/ankitpandeydto/">
+                    <img src="https://scontent.fpat2-1.fna.fbcdn.net/v/t39.30808-6/366684547_1335956010605714_5031357199931128308_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=84lPCtAoackQ7kNvgF97Wdq&_nc_ht=scontent.fpat2-1.fna&oh=00_AYBa7aj_y59BJYpALxedlbnEkb2OtBBozUE4BVN5HtWQ_g&oe=66809718"
+                    height="100" alt="Ankit Pandey">
+                </a>
+                <br>
+                <sub><b><a href="https://github.com/AnkitPandeyCSE">Ankit Pandey</a></b></sub>
+            </td>
+        </tr>
+    </tbody>
+</table>
